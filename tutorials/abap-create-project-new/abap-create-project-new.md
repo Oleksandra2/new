@@ -1,5 +1,5 @@
 ﻿---
-title: Create an ABAP Project in ABAP Development Tools (ADT) Test Green new
+title: Create an ABAP Project in ABAP Development Tools (ADT) testRepo new
 description: Configure the Eclipse IDE with the ABAP Development Tools for SAP NetWeaver (ADT) and create an ABAP project.
 auto_validation: true
 primary_tag: topic>abap-development
